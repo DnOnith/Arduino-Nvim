@@ -1,3 +1,5 @@
+This fork's only purpose is to fix the monitor baudrate 
+
 # Arduino-Nvim
 
 A Neovim plugin that provides Arduino IDE-like functionality directly in your editor.
